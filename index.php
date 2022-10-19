@@ -6,10 +6,11 @@
     if ($_POST) {
         $nombre = $_POST['nombre'];
 
-        echo "hola " . $nombre;
+        echo "Seguro que te llamas " . $nombre . "?";
     }
 
     echo "Solo se que no se nada";
+    echo "";
     echo "pero ya se algo, y es que no se nada";
     echo "Adios";
 ?>
