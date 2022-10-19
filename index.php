@@ -10,6 +10,7 @@
     }
 
     echo "Solo se que no se nada";
+    echo "";
     echo "pero ya se algo, y es que no se nada";
     echo "Adios";
 ?>
