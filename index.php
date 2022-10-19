@@ -1,6 +1,7 @@
 <?php
 
-    echo "<h1> hola caracola </h1>";
+    echo "<h1> hola caracola www </h1>";
+    echo "<h2> hola caracola eee </h2>";
 
     if ($_POST) {
         $nombre = $_POST['nombre'];
