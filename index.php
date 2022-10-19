@@ -1,5 +1,7 @@
 <?php
 
+    echo "<h1> hola caracola </h1>";
+
     if ($_POST) {
         $nombre = $_POST['nombre'];
 
