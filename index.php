@@ -6,7 +6,11 @@
     if ($_POST) {
         $nombre = $_POST['nombre'];
 
+<<<<<<< HEAD
         echo "hola " . $nombre . ' , ¿cómo estás?';
+=======
+        echo "Seguro que te llamas " . $nombre . "?" . ' , ¿cómo estás?';
+>>>>>>> refs/remotes/origin/main
     }
 
     echo "Solo se que no se nada";
